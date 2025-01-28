@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+export(event_impact_by_id)
+export(get_investment_data)
+export(calculate_impact)
+export(jatimpactr)
+export(events)
